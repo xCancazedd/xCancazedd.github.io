@@ -1,3 +1,4 @@
-Hi, I'm cancaze a.k.a Adrian and this is my website.
-This is still a work in progress, so it will still buggy n stuff. Thanks for reading.
-Here's my discord : cancaze#3000 (add me) Thanks for reading!:)
+👋Hi, I'm cancaze a.k.a Adrian and this is my website.
+I'm a 15 year old developer from the United States.
+I'm learning : Javascript, C#, C++, Python.
+Contact me: cancaze#3000 
